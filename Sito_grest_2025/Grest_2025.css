@@ -4,6 +4,11 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+    color: royalblue;
+}
+
 .header {
     background-color: #1e85c9;
 }
